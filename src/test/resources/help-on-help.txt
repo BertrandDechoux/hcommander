@@ -1,0 +1,6 @@
+Print usage of a selected command.
+Usage: help [options]
+  Options:
+    -about
+       Name of the command for which help is required.
+

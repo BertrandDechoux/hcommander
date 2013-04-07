@@ -1,0 +1,6 @@
+Usage: [options] [command] [command options]
+  Commands:
+    test        <no description>
+    help        Print usage of a selected command.
+
+For more information about one command, use the 'help -about [command]' command.
